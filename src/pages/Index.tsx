@@ -408,7 +408,7 @@ const Index = () => {
                     <Linkedin size={20} />
                   </a>
                   <a
-                    href="https://github.com/Navabharathi07"
+                    href="https://github.com/Navabharathi07/MS_AZURE-HANDS-ON-"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 bg-gray-700 hover:bg-gray-600 rounded-full text-white transition-all duration-300 hover:scale-110"
