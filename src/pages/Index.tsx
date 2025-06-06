@@ -163,20 +163,6 @@ const Index = () => {
       <section id="home" className="pt-20 pb-20 px-6">
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto">
-            {/* Profile Image */}
-            <div className="mb-8 flex justify-center">
-              <div className="relative">
-                <div className="w-48 h-48 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 p-1">
-                  <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center">
-                    <div className="w-44 h-44 rounded-full bg-gradient-to-br from-blue-400 to-purple-500 flex items-center justify-center text-white text-6xl font-bold">
-                      NJ
-                    </div>
-                  </div>
-                </div>
-                <div className="absolute -inset-4 bg-gradient-to-r from-blue-500/20 to-purple-600/20 rounded-full blur-xl"></div>
-              </div>
-            </div>
-
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 animate-fade-in">
               Navabharathi J
             </h1>
