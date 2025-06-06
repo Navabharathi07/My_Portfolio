@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Github, Linkedin, Mail, Phone, MapPin, ExternalLink, Download, Menu, X } from 'lucide-react';
 import { Button } from "@/components/ui/button";
@@ -200,7 +199,7 @@ const Index = () => {
                 <Linkedin size={24} />
               </a>
               <a
-                href="https://github.com/Navabharathi07/MS_AZURE-HANDS-ON-"
+                href="https://github.com/Navabharathi07"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-700 hover:bg-gray-600 rounded-full text-white transition-all duration-300 hover:scale-110"
@@ -408,7 +407,7 @@ const Index = () => {
                     <Linkedin size={20} />
                   </a>
                   <a
-                    href="https://github.com/Navabharathi07/MS_AZURE-HANDS-ON-"
+                    href="https://github.com/Navabharathi07"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 bg-gray-700 hover:bg-gray-600 rounded-full text-white transition-all duration-300 hover:scale-110"
